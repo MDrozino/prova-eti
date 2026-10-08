@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "repo": "prova-eti",
+  "repo_url": "https://github.com/MDrozino/prova-eti",
+  "exam_dir": "exams/2026/track-02-debugging",
+  "track": "track-02-debugging",
+  "issue": 1,
+  "issue_url": "https://github.com/MDrozino/prova-eti/issues/1",
+  "gerado_em": "2026-10-08T01:42:03+00:00",
+  "fechada_em": "2026-10-08T01:41:44Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "MDrozino",
+    "ra": "231550782",
+    "nome": "Miguel Drozino"
+  },
+  "variante": {
+    "slug": "prova-eti",
+    "EXAM_DIR": "exams/2026/track-02-debugging",
+    "PORTA_PUBLICADA": 9103,
+    "BANCO": "prova_63",
+    "ORIGEM_FRONTEND": "http://localhost:3000"
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-08T00:35:58Z",
+    "ultimo_push": "2026-10-07T22:24:43-03:00"
+  },
+  "commits": {
+    "total": 13,
+    "autores": [
+      "MDrozino",
+      "Miguel Drozino"
+    ],
+    "primeiro": "2026-10-07T21:11:11-03:00",
+    "ultimo": "2026-10-07T22:24:43-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 33
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 1
+  }
+}
